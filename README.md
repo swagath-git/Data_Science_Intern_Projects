@@ -4,9 +4,9 @@ This repository contains multiple data science projects implemented using Python
 
 ---
 
-## 📂 Projects Included
+## Projects Included
 
-### 1. Customer Churn Analysis (20% Dataset)
+## 1. Customer Churn Analysis (20% Dataset)
 - Loaded dataset and performed initial exploration
 - Handled missing values
 - Encoded categorical features using LabelEncoder
@@ -15,7 +15,7 @@ This repository contains multiple data science projects implemented using Python
 
 ---
 
-### 2. Customer Churn Analysis (80% Dataset)
+## 2. Customer Churn Analysis (80% Dataset)
 - Loaded and explored dataset
 - Removed missing values
 - Encoded categorical columns
@@ -24,7 +24,7 @@ This repository contains multiple data science projects implemented using Python
 
 ---
 
-### 3. House Price Prediction
+## 3. House Price Prediction
 - Loaded housing dataset
 - Handled missing values
 - Encoded categorical variables
@@ -33,7 +33,7 @@ This repository contains multiple data science projects implemented using Python
 
 ---
 
-### 4. Iris Dataset Analysis
+## 4. Iris Dataset Analysis
 - Loaded iris dataset
 - Handled missing values
 - Encoded target variable (species)
@@ -42,7 +42,7 @@ This repository contains multiple data science projects implemented using Python
 
 ---
 
-### 5. Sentiment Analysis
+## 5. Sentiment Analysis
 - Loaded sentiment dataset
 - Encoded sentiment labels
 - Performed basic EDA (countplot)
